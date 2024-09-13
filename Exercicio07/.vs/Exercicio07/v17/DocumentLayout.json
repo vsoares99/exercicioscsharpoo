@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58FDDF16-3596-45B6-BD80-AEA1A5F6CC1B}|Exercicio07\\Exercicio07.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio07\\exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FDDF16-3596-45B6-BD80-AEA1A5F6CC1B}|Exercicio07\\Exercicio07.csproj|solutionrelative:exercicio07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58FDDF16-3596-45B6-BD80-AEA1A5F6CC1B}|Exercicio07\\Exercicio07.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio07\\exercicio07\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58FDDF16-3596-45B6-BD80-AEA1A5F6CC1B}|Exercicio07\\Exercicio07.csproj|solutionrelative:exercicio07\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio07\\Exercicio07\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Exercicio07\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio07\\Exercicio07\\Funcionario.cs",
+              "RelativeToolTip": "Exercicio07\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:52:53.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio07\\Exercicio07\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio07\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio07\\Exercicio07\\Program.cs",
+              "RelativeToolTip": "Exercicio07\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAtwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:50:52.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

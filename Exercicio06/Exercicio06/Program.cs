@@ -20,7 +20,7 @@ namespace MyApp
                 string nome = Console.ReadLine();
                 Console.Write("Email: ");
                 string email = Console.ReadLine();
-                Console.Write("Nome: ");
+                Console.Write("Quarto: ");
                 int quarto = int.Parse(Console.ReadLine());
                 vect[quarto] = new Estudante(nome, email);
             }

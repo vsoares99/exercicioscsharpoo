@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio10\\exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|solutionrelative:exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio10\\exercicio10\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|solutionrelative:exercicio10\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio10\\exercicio10\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|solutionrelative:exercicio10\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio10\\exercicio10\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|solutionrelative:exercicio10\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio10\\exercicio10\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|solutionrelative:exercicio10\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio10\\exercicio10\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43615BB7-87FF-43BA-8334-00D7E6E399B3}|Exercicio10\\Exercicio10.csproj|solutionrelative:exercicio10\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Exercicio10\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Entities\\Order.cs",
+              "RelativeToolTip": "Exercicio10\\Entities\\Order.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAIA2wDsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:49:40.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Exercicio10\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Entities\\Client.cs",
+              "RelativeToolTip": "Exercicio10\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:48:21.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Exercicio10\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Exercicio10\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:44:35.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Exercicio10\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Entities\\Product.cs",
+              "RelativeToolTip": "Exercicio10\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:43:36.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Exercicio10\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Exercicio10\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:42:29.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio10\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio10\\Exercicio10\\Program.cs",
+              "RelativeToolTip": "Exercicio10\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowDAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:41:45.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

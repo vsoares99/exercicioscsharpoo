@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09032B12-9B54-4824-A216-6E91E6AB3FD6}|Exercicio15\\Exercicio15.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio15\\exercicio15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09032B12-9B54-4824-A216-6E91E6AB3FD6}|Exercicio15\\Exercicio15.csproj|solutionrelative:exercicio15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09032B12-9B54-4824-A216-6E91E6AB3FD6}|Exercicio15\\Exercicio15.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio15\\exercicio15\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09032B12-9B54-4824-A216-6E91E6AB3FD6}|Exercicio15\\Exercicio15.csproj|solutionrelative:exercicio15\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09032B12-9B54-4824-A216-6E91E6AB3FD6}|Exercicio15\\Exercicio15.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio15\\exercicio15\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09032B12-9B54-4824-A216-6E91E6AB3FD6}|Exercicio15\\Exercicio15.csproj|solutionrelative:exercicio15\\entities\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio15\\Exercicio15\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "Exercicio15\\Entities\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio15\\Exercicio15\\Entities\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "Exercicio15\\Entities\\Exceptions\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:59:13.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio15\\Exercicio15\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "Exercicio15\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio15\\Exercicio15\\Entities\\Reservation.cs",
+              "RelativeToolTip": "Exercicio15\\Entities\\Reservation.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:21:02.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio15\\Exercicio15\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio15\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio15\\Exercicio15\\Program.cs",
+              "RelativeToolTip": "Exercicio15\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T16:19:32.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

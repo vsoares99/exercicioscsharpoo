@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{974E9D2E-D9A3-4422-A5A2-23D2C830B0B1}|Exercicio17\\Exercicio17.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio17\\exercicio17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974E9D2E-D9A3-4422-A5A2-23D2C830B0B1}|Exercicio17\\Exercicio17.csproj|solutionrelative:exercicio17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974E9D2E-D9A3-4422-A5A2-23D2C830B0B1}|Exercicio17\\Exercicio17.csproj|c:\\users\\victor\\documents\\aulasc#\\exerc\u00EDcios curso c# oo\\exercicio17\\exercicio17\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974E9D2E-D9A3-4422-A5A2-23D2C830B0B1}|Exercicio17\\Exercicio17.csproj|solutionrelative:exercicio17\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio17\\Exercicio17\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Exercicio17\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio17\\Exercicio17\\Entities\\Product.cs",
+              "RelativeToolTip": "Exercicio17\\Entities\\Product.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAnwBsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:43:07.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio17\\Exercicio17\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio17\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\AulasC#\\Exerc\u00EDcios Curso C# OO\\Exercicio17\\Exercicio17\\Program.cs",
+              "RelativeToolTip": "Exercicio17\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:30:57.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
